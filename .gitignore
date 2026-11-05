@@ -1,0 +1,42 @@
+# Embarcadero RAD Studio / C++Builder gitignore
+
+# IDE caches and history
+__astcache/
+__history/
+__recovery/
+*.local
+*.identcache
+*.stat
+*.dsk
+
+# Output and intermediate build files
+Win32/
+Win64/
+Debug/
+Release/
+*.obj
+*.o
+*.tds
+*.pch
+*.ilc
+*.ild
+*.ilf
+*.ils
+*.map
+*.pdi
+*.res
+*.dcu
+*.rsm
+*.drc
+*.~*
+*.exe
+*.dll
+
+# Temporary and Office export files
+~$*
+*.tmp
+*.bak
+*.docx
+*.xlsx
+*.txt
+!README.md
